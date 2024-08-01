@@ -6,3 +6,8 @@ function generator(){
 function newUlList(){
     console.log('Hello');
 }
+
+
+const addcourse=(courses)=>{
+    return true
+}
